@@ -125,7 +125,7 @@ cp .env.example .env.local
 Configure your parameters in `.env.local`:
 ```env
 NEXT_PUBLIC_SITE_URL=https://vivek-portfolio.vercel.app
-NEXT_PUBLIC_GITHUB_USERNAME=vivekkumar
+NEXT_PUBLIC_GITHUB_USERNAME=vivek kumar
 ```
 
 ---
